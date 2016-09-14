@@ -1,5 +1,6 @@
 @import 'https://fonts.googleapis.com/css?family=Poiret+One';
 
+/*utalized the style sheet we did in class but made my own adjustments and stylings to my page*/
 
 html, body {
     width: 100%;
@@ -45,7 +46,6 @@ font-family: 'Poiret One', cursive;
 outline: none;
 border: none;
 font-size: 22px;
-line-height: 1.2em;
 padding: 15px 20px;
 }
 
@@ -62,12 +62,12 @@ background-color: black;
 color: white;
 }
 
-#container #view .gallery-item{
+#container #info .gallery-item{
 margin: 10px;
 width: 300px;
 }
 
-#view {
+#info {
 margin-top: 50px;
 }
 
