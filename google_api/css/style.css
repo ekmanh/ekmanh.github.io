@@ -1,0 +1,26 @@
+body {
+
+	background-color: white;
+	width: 400px;
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#map-canvas {
+	text-align: center;
+	width: 400px;
+	height: 400px;
+	margin-top: 20px;
+}
+
+#mapsearch {
+	padding: 20px;
+	text-align: center;
+	border-color: black;
+	border-width: 6px;
+	width: 350px;
+	font-size: 27px;
+	outline: none;
+
+}
