@@ -1,0 +1,2890 @@
+[
+  {
+    "Pokemon": [
+      {
+        "name": "Bulbasaur",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Ivysaur",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Venusaur",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Charmander",
+        "power": "Fire"
+      },
+      {
+        "name": "Charmeleon",
+        "power": "Fire"
+      },
+      {
+        "name": "Charizard",
+        "power": "Fire · Flying"
+      },
+      {
+        "name": "Squirtle",
+        "power": "Water"
+      },
+      {
+        "name": "Wartortle",
+        "power": "Water"
+      },
+      {
+        "name": "Blastoise",
+        "power": "Water"
+      },
+      {
+        "name": "Caterpie",
+        "power": "Bug"
+      },
+      {
+        "name": "Metapod",
+        "power": "Bug"
+      },
+      {
+        "name": "Butterfree",
+        "power": "Bug · Flying"
+      },
+      {
+        "name": "Weedle",
+        "power": "Bug · Poison"
+      },
+      {
+        "name": "Kakuna",
+        "power": "Bug · Poison"
+      },
+      {
+        "name": "Beedrill",
+        "power": "Bug · Poison"
+      },
+      {
+        "name": "Pidgey",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Pidgeotto",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Pidgeot",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Rattata",
+        "power": "Normal"
+      },
+      {
+        "name": "Raticate",
+        "power": "Normal"
+      },
+      {
+        "name": "Spearow",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Fearow",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Ekans",
+        "power": "Poison"
+      },
+      {
+        "name": "Arbok",
+        "power": "Poison"
+      },
+      {
+        "name": "Pikachu",
+        "power": "Electric"
+      },
+      {
+        "name": "Raichu",
+        "power": "Electric"
+      },
+      {
+        "name": "Sandshrew",
+        "power": "Ground"
+      },
+      {
+        "name": "Sandslash",
+        "power": "Ground"
+      },
+      {
+        "name": "Nidoran♀",
+        "power": "Poison"
+      },
+      {
+        "name": "Nidorina",
+        "power": "Poison"
+      },
+      {
+        "name": "Nidoqueen",
+        "power": "Poison · Ground"
+      },
+      {
+        "name": "Nidoran♂",
+        "power": "Poison"
+      },
+      {
+        "name": "Nidorino",
+        "power": "Poison"
+      },
+      {
+        "name": "Nidoking",
+        "power": "Poison · Ground"
+      },
+      {
+        "name": "Clefairy",
+        "power": "Fairy"
+      },
+      {
+        "name": "Clefable",
+        "power": "Fairy"
+      },
+      {
+        "name": "Vulpix",
+        "power": "Fire"
+      },
+      {
+        "name": "Ninetales",
+        "power": "Fire"
+      },
+      {
+        "name": "Jigglypuff",
+        "power": "Normal · Fairy"
+      },
+      {
+        "name": "Wigglytuff",
+        "power": "Normal · Fairy"
+      },
+      {
+        "name": "Zubat",
+        "power": "Poison · Flying"
+      },
+      {
+        "name": "Golbat",
+        "power": "Poison · Flying"
+      },
+      {
+        "name": "Oddish",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Gloom",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Vileplume",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Paras",
+        "power": "Bug · Grass"
+      },
+      {
+        "name": "Parasect",
+        "power": "Bug · Grass"
+      },
+      {
+        "name": "Venonat",
+        "power": "Bug · Poison"
+      },
+      {
+        "name": "Venomoth",
+        "power": "Bug · Poison"
+      },
+      {
+        "name": "Diglett",
+        "power": "Ground"
+      },
+      {
+        "name": "Dugtrio",
+        "power": "Ground"
+      },
+      {
+        "name": "Meowth",
+        "power": "Normal"
+      },
+      {
+        "name": "Persian",
+        "power": "Normal"
+      },
+      {
+        "name": "Psyduck",
+        "power": "Water"
+      },
+      {
+        "name": "Golduck",
+        "power": "Water"
+      },
+      {
+        "name": "Mankey",
+        "power": "Fighting"
+      },
+      {
+        "name": "Primeape",
+        "power": "Fighting"
+      },
+      {
+        "name": "Growlithe",
+        "power": "Fire"
+      },
+      {
+        "name": "Arcanine",
+        "power": "Fire"
+      },
+      {
+        "name": "Poliwag",
+        "power": "Water"
+      },
+      {
+        "name": "Poliwhirl",
+        "power": "Water"
+      },
+      {
+        "name": "Poliwrath",
+        "power": "Water · Fighting"
+      },
+      {
+        "name": "Abra",
+        "power": "Psychic"
+      },
+      {
+        "name": "Kadabra",
+        "power": "Psychic"
+      },
+      {
+        "name": "Alakazam",
+        "power": "Psychic"
+      },
+      {
+        "name": "Machop",
+        "power": "Fighting"
+      },
+      {
+        "name": "Machoke",
+        "power": "Fighting"
+      },
+      {
+        "name": "Machamp",
+        "power": "Fighting"
+      },
+      {
+        "name": "Bellsprout",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Weepinbell",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Victreebel",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Tentacool",
+        "power": "Water · Poison"
+      },
+      {
+        "name": "Tentacruel",
+        "power": "Water · Poison"
+      },
+      {
+        "name": "Geodude",
+        "power": "Rock · Ground"
+      },
+      {
+        "name": "Graveler",
+        "power": "Rock · Ground"
+      },
+      {
+        "name": "Golem",
+        "power": "Rock · Ground"
+      },
+      {
+        "name": "Ponyta",
+        "power": "Fire"
+      },
+      {
+        "name": "Rapidash",
+        "power": "Fire"
+      },
+      {
+        "name": "Slowpoke",
+        "power": "Water · Psychic"
+      },
+      {
+        "name": "Slowbro",
+        "power": "Water · Psychic"
+      },
+      {
+        "name": "Magnemite",
+        "power": "Electric · Steel"
+      },
+      {
+        "name": "Magneton",
+        "power": "Electric · Steel"
+      },
+      {
+        "name": "Farfetch'd",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Doduo",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Dodrio",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Seel",
+        "power": "Water"
+      },
+      {
+        "name": "Dewgong",
+        "power": "Water · Ice"
+      },
+      {
+        "name": "Grimer",
+        "power": "Poison"
+      },
+      {
+        "name": "Muk",
+        "power": "Poison"
+      },
+      {
+        "name": "Shellder",
+        "power": "Water"
+      },
+      {
+        "name": "Cloyster",
+        "power": "Water · Ice"
+      },
+      {
+        "name": "Gastly",
+        "power": "Ghost · Poison"
+      },
+      {
+        "name": "Haunter",
+        "power": "Ghost · Poison"
+      },
+      {
+        "name": "Gengar",
+        "power": "Ghost · Poison"
+      },
+      {
+        "name": "Onix",
+        "power": "Rock · Ground"
+      },
+      {
+        "name": "Drowzee",
+        "power": "Psychic"
+      },
+      {
+        "name": "Hypno",
+        "power": "Psychic"
+      },
+      {
+        "name": "Krabby",
+        "power": "Water"
+      },
+      {
+        "name": "Kingler",
+        "power": "Water"
+      },
+      {
+        "name": "Voltorb",
+        "power": "Electric"
+      },
+      {
+        "name": "Electrode",
+        "power": "Electric"
+      },
+      {
+        "name": "Exeggcute",
+        "power": "Grass · Psychic"
+      },
+      {
+        "name": "Exeggutor",
+        "power": "Grass · Psychic"
+      },
+      {
+        "name": "Cubone",
+        "power": "Ground"
+      },
+      {
+        "name": "Marowak",
+        "power": "Ground"
+      },
+      {
+        "name": "Hitmonlee",
+        "power": "Fighting"
+      },
+      {
+        "name": "Hitmonchan",
+        "power": "Fighting"
+      },
+      {
+        "name": "Lickitung",
+        "power": "Normal"
+      },
+      {
+        "name": "Koffing",
+        "power": "Poison"
+      },
+      {
+        "name": "Weezing",
+        "power": "Poison"
+      },
+      {
+        "name": "Rhyhorn",
+        "power": "Ground · Rock"
+      },
+      {
+        "name": "Rhydon",
+        "power": "Ground · Rock"
+      },
+      {
+        "name": "Chansey",
+        "power": "Normal"
+      },
+      {
+        "name": "Tangela",
+        "power": "Grass"
+      },
+      {
+        "name": "Kangaskhan",
+        "power": "Normal"
+      },
+      {
+        "name": "Horsea",
+        "power": "Water"
+      },
+      {
+        "name": "Seadra",
+        "power": "Water"
+      },
+      {
+        "name": "Goldeen",
+        "power": "Water"
+      },
+      {
+        "name": "Seaking",
+        "power": "Water"
+      },
+      {
+        "name": "Staryu",
+        "power": "Water"
+      },
+      {
+        "name": "Starmie",
+        "power": "Water · Psychic"
+      },
+      {
+        "name": "Mr. Mime",
+        "power": "Psychic · Fairy"
+      },
+      {
+        "name": "Scyther",
+        "power": "Bug · Flying"
+      },
+      {
+        "name": "Jynx",
+        "power": "Ice · Psychic"
+      },
+      {
+        "name": "Electabuzz",
+        "power": "Electric"
+      },
+      {
+        "name": "Magmar",
+        "power": "Fire"
+      },
+      {
+        "name": "Pinsir",
+        "power": "Bug"
+      },
+      {
+        "name": "Tauros",
+        "power": "Normal"
+      },
+      {
+        "name": "Magikarp",
+        "power": "Water"
+      },
+      {
+        "name": "Gyarados",
+        "power": "Water · Flying"
+      },
+      {
+        "name": "Lapras",
+        "power": "Water · Ice"
+      },
+      {
+        "name": "Ditto",
+        "power": "Normal"
+      },
+      {
+        "name": "Eevee",
+        "power": "Normal"
+      },
+      {
+        "name": "Vaporeon",
+        "power": "Water"
+      },
+      {
+        "name": "Jolteon",
+        "power": "Electric"
+      },
+      {
+        "name": "Flareon",
+        "power": "Fire"
+      },
+      {
+        "name": "Porygon",
+        "power": "Normal"
+      },
+      {
+        "name": "Omanyte",
+        "power": "Rock · Water"
+      },
+      {
+        "name": "Omastar",
+        "power": "Rock · Water"
+      },
+      {
+        "name": "Kabuto",
+        "power": "Rock · Water"
+      },
+      {
+        "name": "Kabutops",
+        "power": "Rock · Water"
+      },
+      {
+        "name": "Aerodactyl",
+        "power": "Rock · Flying"
+      },
+      {
+        "name": "Snorlax",
+        "power": "Normal"
+      },
+      {
+        "name": "Articuno",
+        "power": "Ice · Flying"
+      },
+      {
+        "name": "Zapdos",
+        "power": "Electric · Flying"
+      },
+      {
+        "name": "Moltres",
+        "power": "Fire · Flying"
+      },
+      {
+        "name": "Dratini",
+        "power": "Dragon"
+      },
+      {
+        "name": "Dragonair",
+        "power": "Dragon"
+      },
+      {
+        "name": "Dragonite",
+        "power": "Dragon · Flying"
+      },
+      {
+        "name": "Mewtwo",
+        "power": "Psychic"
+      },
+      {
+        "name": "Mew",
+        "power": "Psychic"
+      },
+      {
+        "name": "Chikorita",
+        "power": "Grass"
+      },
+      {
+        "name": "Bayleef",
+        "power": "Grass"
+      },
+      {
+        "name": "Meganium",
+        "power": "Grass"
+      },
+      {
+        "name": "Cyndaquil",
+        "power": "Fire"
+      },
+      {
+        "name": "Quilava",
+        "power": "Fire"
+      },
+      {
+        "name": "Typhlosion",
+        "power": "Fire"
+      },
+      {
+        "name": "Totodile",
+        "power": "Water"
+      },
+      {
+        "name": "Croconaw",
+        "power": "Water"
+      },
+      {
+        "name": "Feraligatr",
+        "power": "Water"
+      },
+      {
+        "name": "Sentret",
+        "power": "Normal"
+      },
+      {
+        "name": "Furret",
+        "power": "Normal"
+      },
+      {
+        "name": "Hoothoot",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Noctowl",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Ledyba",
+        "power": "Bug · Flying"
+      },
+      {
+        "name": "Ledian",
+        "power": "Bug · Flying"
+      },
+      {
+        "name": "Spinarak",
+        "power": "Bug · Poison"
+      },
+      {
+        "name": "Ariados",
+        "power": "Bug · Poison"
+      },
+      {
+        "name": "Crobat",
+        "power": "Poison · Flying"
+      },
+      {
+        "name": "Chinchou",
+        "power": "Water · Electric"
+      },
+      {
+        "name": "Lanturn",
+        "power": "Water · Electric"
+      },
+      {
+        "name": "Pichu",
+        "power": "Electric"
+      },
+      {
+        "name": "Cleffa",
+        "power": "Fairy"
+      },
+      {
+        "name": "Igglybuff",
+        "power": "Normal · Fairy"
+      },
+      {
+        "name": "Togepi",
+        "power": "Fairy"
+      },
+      {
+        "name": "Togetic",
+        "power": "Fairy · Flying"
+      },
+      {
+        "name": "Natu",
+        "power": "Psychic · Flying"
+      },
+      {
+        "name": "Xatu",
+        "power": "Psychic · Flying"
+      },
+      {
+        "name": "Mareep",
+        "power": "Electric"
+      },
+      {
+        "name": "Flaaffy",
+        "power": "Electric"
+      },
+      {
+        "name": "Ampharos",
+        "power": "Electric"
+      },
+      {
+        "name": "Bellossom",
+        "power": "Grass"
+      },
+      {
+        "name": "Marill",
+        "power": "Water · Fairy"
+      },
+      {
+        "name": "Azumarill",
+        "power": "Water · Fairy"
+      },
+      {
+        "name": "Sudowoodo",
+        "power": "Rock"
+      },
+      {
+        "name": "Politoed",
+        "power": "Water"
+      },
+      {
+        "name": "Hoppip",
+        "power": "Grass · Flying"
+      },
+      {
+        "name": "Skiploom",
+        "power": "Grass · Flying"
+      },
+      {
+        "name": "Jumpluff",
+        "power": "Grass · Flying"
+      },
+      {
+        "name": "Aipom",
+        "power": "Normal"
+      },
+      {
+        "name": "Sunkern",
+        "power": "Grass"
+      },
+      {
+        "name": "Sunflora",
+        "power": "Grass"
+      },
+      {
+        "name": "Yanma",
+        "power": "Bug · Flying"
+      },
+      {
+        "name": "Wooper",
+        "power": "Water · Ground"
+      },
+      {
+        "name": "Quagsire",
+        "power": "Water · Ground"
+      },
+      {
+        "name": "Espeon",
+        "power": "Psychic"
+      },
+      {
+        "name": "Umbreon",
+        "power": "Dark"
+      },
+      {
+        "name": "Murkrow",
+        "power": "Dark · Flying"
+      },
+      {
+        "name": "Slowking",
+        "power": "Water · Psychic"
+      },
+      {
+        "name": "Misdreavus",
+        "power": "Ghost"
+      },
+      {
+        "name": "Unown",
+        "power": "Psychic"
+      },
+      {
+        "name": "Wobbuffet",
+        "power": "Psychic"
+      },
+      {
+        "name": "Girafarig",
+        "power": "Normal · Psychic"
+      },
+      {
+        "name": "Pineco",
+        "power": "Bug"
+      },
+      {
+        "name": "Forretress",
+        "power": "Bug · Steel"
+      },
+      {
+        "name": "Dunsparce",
+        "power": "Normal"
+      },
+      {
+        "name": "Gligar",
+        "power": "Ground · Flying"
+      },
+      {
+        "name": "Steelix",
+        "power": "Steel · Ground"
+      },
+      {
+        "name": "Snubbull",
+        "power": "Fairy"
+      },
+      {
+        "name": "Granbull",
+        "power": "Fairy"
+      },
+      {
+        "name": "Qwilfish",
+        "power": "Water · Poison"
+      },
+      {
+        "name": "Scizor",
+        "power": "Bug · Steel"
+      },
+      {
+        "name": "Shuckle",
+        "power": "Bug · Rock"
+      },
+      {
+        "name": "Heracross",
+        "power": "Bug · Fighting"
+      },
+      {
+        "name": "Sneasel",
+        "power": "Dark · Ice"
+      },
+      {
+        "name": "Teddiursa",
+        "power": "Normal"
+      },
+      {
+        "name": "Ursaring",
+        "power": "Normal"
+      },
+      {
+        "name": "Slugma",
+        "power": "Fire"
+      },
+      {
+        "name": "Magcargo",
+        "power": "Fire · Rock"
+      },
+      {
+        "name": "Swinub",
+        "power": "Ice · Ground"
+      },
+      {
+        "name": "Piloswine",
+        "power": "Ice · Ground"
+      },
+      {
+        "name": "Corsola",
+        "power": "Water · Rock"
+      },
+      {
+        "name": "Remoraid",
+        "power": "Water"
+      },
+      {
+        "name": "Octillery",
+        "power": "Water"
+      },
+      {
+        "name": "Delibird",
+        "power": "Ice · Flying"
+      },
+      {
+        "name": "Mantine",
+        "power": "Water · Flying"
+      },
+      {
+        "name": "Skarmory",
+        "power": "Steel · Flying"
+      },
+      {
+        "name": "Houndour",
+        "power": "Dark · Fire"
+      },
+      {
+        "name": "Houndoom",
+        "power": "Dark · Fire"
+      },
+      {
+        "name": "Kingdra",
+        "power": "Water · Dragon"
+      },
+      {
+        "name": "Phanpy",
+        "power": "Ground"
+      },
+      {
+        "name": "Donphan",
+        "power": "Ground"
+      },
+      {
+        "name": "Porygon2",
+        "power": "Normal"
+      },
+      {
+        "name": "Stantler",
+        "power": "Normal"
+      },
+      {
+        "name": "Smeargle",
+        "power": "Normal"
+      },
+      {
+        "name": "Tyrogue",
+        "power": "Fighting"
+      },
+      {
+        "name": "Hitmontop",
+        "power": "Fighting"
+      },
+      {
+        "name": "Smoochum",
+        "power": "Ice · Psychic"
+      },
+      {
+        "name": "Elekid",
+        "power": "Electric"
+      },
+      {
+        "name": "Magby",
+        "power": "Fire"
+      },
+      {
+        "name": "Miltank",
+        "power": "Normal"
+      },
+      {
+        "name": "Blissey",
+        "power": "Normal"
+      },
+      {
+        "name": "Raikou",
+        "power": "Electric"
+      },
+      {
+        "name": "Entei",
+        "power": "Fire"
+      },
+      {
+        "name": "Suicune",
+        "power": "Water"
+      },
+      {
+        "name": "Larvitar",
+        "power": "Rock · Ground"
+      },
+      {
+        "name": "Pupitar",
+        "power": "Rock · Ground"
+      },
+      {
+        "name": "Tyranitar",
+        "power": "Rock · Dark"
+      },
+      {
+        "name": "Lugia",
+        "power": "Psychic · Flying"
+      },
+      {
+        "name": "Ho-oh",
+        "power": "Fire · Flying"
+      },
+      {
+        "name": "Celebi",
+        "power": "Psychic · Grass"
+      },
+      {
+        "name": "Treecko",
+        "power": "Grass"
+      },
+      {
+        "name": "Grovyle",
+        "power": "Grass"
+      },
+      {
+        "name": "Sceptile",
+        "power": "Grass"
+      },
+      {
+        "name": "Torchic",
+        "power": "Fire"
+      },
+      {
+        "name": "Combusken",
+        "power": "Fire · Fighting"
+      },
+      {
+        "name": "Blaziken",
+        "power": "Fire · Fighting"
+      },
+      {
+        "name": "Mudkip",
+        "power": "Water"
+      },
+      {
+        "name": "Marshtomp",
+        "power": "Water · Ground"
+      },
+      {
+        "name": "Swampert",
+        "power": "Water · Ground"
+      },
+      {
+        "name": "Poochyena",
+        "power": "Dark"
+      },
+      {
+        "name": "Mightyena",
+        "power": "Dark"
+      },
+      {
+        "name": "Zigzagoon",
+        "power": "Normal"
+      },
+      {
+        "name": "Linoone",
+        "power": "Normal"
+      },
+      {
+        "name": "Wurmple",
+        "power": "Bug"
+      },
+      {
+        "name": "Silcoon",
+        "power": "Bug"
+      },
+      {
+        "name": "Beautifly",
+        "power": "Bug · Flying"
+      },
+      {
+        "name": "Cascoon",
+        "power": "Bug"
+      },
+      {
+        "name": "Dustox",
+        "power": "Bug · Poison"
+      },
+      {
+        "name": "Lotad",
+        "power": "Water · Grass"
+      },
+      {
+        "name": "Lombre",
+        "power": "Water · Grass"
+      },
+      {
+        "name": "Ludicolo",
+        "power": "Water · Grass"
+      },
+      {
+        "name": "Seedot",
+        "power": "Grass"
+      },
+      {
+        "name": "Nuzleaf",
+        "power": "Grass · Dark"
+      },
+      {
+        "name": "Shiftry",
+        "power": "Grass · Dark"
+      },
+      {
+        "name": "Taillow",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Swellow",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Wingull",
+        "power": "Water · Flying"
+      },
+      {
+        "name": "Pelipper",
+        "power": "Water · Flying"
+      },
+      {
+        "name": "Ralts",
+        "power": "Psychic · Fairy"
+      },
+      {
+        "name": "Kirlia",
+        "power": "Psychic · Fairy"
+      },
+      {
+        "name": "Gardevoir",
+        "power": "Psychic · Fairy"
+      },
+      {
+        "name": "Surskit",
+        "power": "Bug · Water"
+      },
+      {
+        "name": "Masquerain",
+        "power": "Bug · Flying"
+      },
+      {
+        "name": "Shroomish",
+        "power": "Grass"
+      },
+      {
+        "name": "Breloom",
+        "power": "Grass · Fighting"
+      },
+      {
+        "name": "Slakoth",
+        "power": "Normal"
+      },
+      {
+        "name": "Vigoroth",
+        "power": "Normal"
+      },
+      {
+        "name": "Slaking",
+        "power": "Normal"
+      },
+      {
+        "name": "Nincada",
+        "power": "Bug · Ground"
+      },
+      {
+        "name": "Ninjask",
+        "power": "Bug · Flying"
+      },
+      {
+        "name": "Shedinja",
+        "power": "Bug · Ghost"
+      },
+      {
+        "name": "Whismur",
+        "power": "Normal"
+      },
+      {
+        "name": "Loudred",
+        "power": "Normal"
+      },
+      {
+        "name": "Exploud",
+        "power": "Normal"
+      },
+      {
+        "name": "Makuhita",
+        "power": "Fighting"
+      },
+      {
+        "name": "Hariyama",
+        "power": "Fighting"
+      },
+      {
+        "name": "Azurill",
+        "power": "Normal · Fairy"
+      },
+      {
+        "name": "Nosepass",
+        "power": "Rock"
+      },
+      {
+        "name": "Skitty",
+        "power": "Normal"
+      },
+      {
+        "name": "Delcatty",
+        "power": "Normal"
+      },
+      {
+        "name": "Sableye",
+        "power": "Dark · Ghost"
+      },
+      {
+        "name": "Mawile",
+        "power": "Steel · Fairy"
+      },
+      {
+        "name": "Aron",
+        "power": "Steel · Rock"
+      },
+      {
+        "name": "Lairon",
+        "power": "Steel · Rock"
+      },
+      {
+        "name": "Aggron",
+        "power": "Steel · Rock"
+      },
+      {
+        "name": "Meditite",
+        "power": "Fighting · Psychic"
+      },
+      {
+        "name": "Medicham",
+        "power": "Fighting · Psychic"
+      },
+      {
+        "name": "Electrike",
+        "power": "Electric"
+      },
+      {
+        "name": "Manectric",
+        "power": "Electric"
+      },
+      {
+        "name": "Plusle",
+        "power": "Electric"
+      },
+      {
+        "name": "Minun",
+        "power": "Electric"
+      },
+      {
+        "name": "Volbeat",
+        "power": "Bug"
+      },
+      {
+        "name": "Illumise",
+        "power": "Bug"
+      },
+      {
+        "name": "Roselia",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Gulpin",
+        "power": "Poison"
+      },
+      {
+        "name": "Swalot",
+        "power": "Poison"
+      },
+      {
+        "name": "Carvanha",
+        "power": "Water · Dark"
+      },
+      {
+        "name": "Sharpedo",
+        "power": "Water · Dark"
+      },
+      {
+        "name": "Wailmer",
+        "power": "Water"
+      },
+      {
+        "name": "Wailord",
+        "power": "Water"
+      },
+      {
+        "name": "Numel",
+        "power": "Fire · Ground"
+      },
+      {
+        "name": "Camerupt",
+        "power": "Fire · Ground"
+      },
+      {
+        "name": "Torkoal",
+        "power": "Fire"
+      },
+      {
+        "name": "Spoink",
+        "power": "Psychic"
+      },
+      {
+        "name": "Grumpig",
+        "power": "Psychic"
+      },
+      {
+        "name": "Spinda",
+        "power": "Normal"
+      },
+      {
+        "name": "Trapinch",
+        "power": "Ground"
+      },
+      {
+        "name": "Vibrava",
+        "power": "Ground · Dragon"
+      },
+      {
+        "name": "Flygon",
+        "power": "Ground · Dragon"
+      },
+      {
+        "name": "Cacnea",
+        "power": "Grass"
+      },
+      {
+        "name": "Cacturne",
+        "power": "Grass · Dark"
+      },
+      {
+        "name": "Swablu",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Altaria",
+        "power": "Dragon · Flying"
+      },
+      {
+        "name": "Zangoose",
+        "power": "Normal"
+      },
+      {
+        "name": "Seviper",
+        "power": "Poison"
+      },
+      {
+        "name": "Lunatone",
+        "power": "Rock · Psychic"
+      },
+      {
+        "name": "Solrock",
+        "power": "Rock · Psychic"
+      },
+      {
+        "name": "Barboach",
+        "power": "Water · Ground"
+      },
+      {
+        "name": "Whiscash",
+        "power": "Water · Ground"
+      },
+      {
+        "name": "Corphish",
+        "power": "Water"
+      },
+      {
+        "name": "Crawdaunt",
+        "power": "Water · Dark"
+      },
+      {
+        "name": "Baltoy",
+        "power": "Ground · Psychic"
+      },
+      {
+        "name": "Claydol",
+        "power": "Ground · Psychic"
+      },
+      {
+        "name": "Lileep",
+        "power": "Rock · Grass"
+      },
+      {
+        "name": "Cradily",
+        "power": "Rock · Grass"
+      },
+      {
+        "name": "Anorith",
+        "power": "Rock · Bug"
+      },
+      {
+        "name": "Armaldo",
+        "power": "Rock · Bug"
+      },
+      {
+        "name": "Feebas",
+        "power": "Water"
+      },
+      {
+        "name": "Milotic",
+        "power": "Water"
+      },
+      {
+        "name": "Castform",
+        "power": "Normal"
+      },
+      {
+        "name": "Kecleon",
+        "power": "Normal"
+      },
+      {
+        "name": "Shuppet",
+        "power": "Ghost"
+      },
+      {
+        "name": "Banette",
+        "power": "Ghost"
+      },
+      {
+        "name": "Duskull",
+        "power": "Ghost"
+      },
+      {
+        "name": "Dusclops",
+        "power": "Ghost"
+      },
+      {
+        "name": "Tropius",
+        "power": "Grass · Flying"
+      },
+      {
+        "name": "Chimecho",
+        "power": "Psychic"
+      },
+      {
+        "name": "Absol",
+        "power": "Dark"
+      },
+      {
+        "name": "Wynaut",
+        "power": "Psychic"
+      },
+      {
+        "name": "Snorunt",
+        "power": "Ice"
+      },
+      {
+        "name": "Glalie",
+        "power": "Ice"
+      },
+      {
+        "name": "Spheal",
+        "power": "Ice · Water"
+      },
+      {
+        "name": "Sealeo",
+        "power": "Ice · Water"
+      },
+      {
+        "name": "Walrein",
+        "power": "Ice · Water"
+      },
+      {
+        "name": "Clamperl",
+        "power": "Water"
+      },
+      {
+        "name": "Huntail",
+        "power": "Water"
+      },
+      {
+        "name": "Gorebyss",
+        "power": "Water"
+      },
+      {
+        "name": "Relicanth",
+        "power": "Water · Rock"
+      },
+      {
+        "name": "Luvdisc",
+        "power": "Water"
+      },
+      {
+        "name": "Bagon",
+        "power": "Dragon"
+      },
+      {
+        "name": "Shelgon",
+        "power": "Dragon"
+      },
+      {
+        "name": "Salamence",
+        "power": "Dragon · Flying"
+      },
+      {
+        "name": "Beldum",
+        "power": "Steel · Psychic"
+      },
+      {
+        "name": "Metang",
+        "power": "Steel · Psychic"
+      },
+      {
+        "name": "Metagross",
+        "power": "Steel · Psychic"
+      },
+      {
+        "name": "Regirock",
+        "power": "Rock"
+      },
+      {
+        "name": "Regice",
+        "power": "Ice"
+      },
+      {
+        "name": "Registeel",
+        "power": "Steel"
+      },
+      {
+        "name": "Latias",
+        "power": "Dragon · Psychic"
+      },
+      {
+        "name": "Latios",
+        "power": "Dragon · Psychic"
+      },
+      {
+        "name": "Kyogre",
+        "power": "Water"
+      },
+      {
+        "name": "Groudon",
+        "power": "Ground"
+      },
+      {
+        "name": "Rayquaza",
+        "power": "Dragon · Flying"
+      },
+      {
+        "name": "Jirachi",
+        "power": "Steel · Psychic"
+      },
+      {
+        "name": "Deoxys",
+        "power": "Psychic"
+      },
+      {
+        "name": "Turtwig",
+        "power": "Grass"
+      },
+      {
+        "name": "Grotle",
+        "power": "Grass"
+      },
+      {
+        "name": "Torterra",
+        "power": "Grass · Ground"
+      },
+      {
+        "name": "Chimchar",
+        "power": "Fire"
+      },
+      {
+        "name": "Monferno",
+        "power": "Fire · Fighting"
+      },
+      {
+        "name": "Infernape",
+        "power": "Fire · Fighting"
+      },
+      {
+        "name": "Piplup",
+        "power": "Water"
+      },
+      {
+        "name": "Prinplup",
+        "power": "Water"
+      },
+      {
+        "name": "Empoleon",
+        "power": "Water · Steel"
+      },
+      {
+        "name": "Starly",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Staravia",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Staraptor",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Bidoof",
+        "power": "Normal"
+      },
+      {
+        "name": "Bibarel",
+        "power": "Normal · Water"
+      },
+      {
+        "name": "Kricketot",
+        "power": "Bug"
+      },
+      {
+        "name": "Kricketune",
+        "power": "Bug"
+      },
+      {
+        "name": "Shinx",
+        "power": "Electric"
+      },
+      {
+        "name": "Luxio",
+        "power": "Electric"
+      },
+      {
+        "name": "Luxray",
+        "power": "Electric"
+      },
+      {
+        "name": "Budew",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Roserade",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Cranidos",
+        "power": "Rock"
+      },
+      {
+        "name": "Rampardos",
+        "power": "Rock"
+      },
+      {
+        "name": "Shieldon",
+        "power": "Rock · Steel"
+      },
+      {
+        "name": "Bastiodon",
+        "power": "Rock · Steel"
+      },
+      {
+        "name": "Burmy",
+        "power": "Bug"
+      },
+      {
+        "name": "Wormadam",
+        "power": "Bug · Grass"
+      },
+      {
+        "name": "Mothim",
+        "power": "Bug · Flying"
+      },
+      {
+        "name": "Combee",
+        "power": "Bug · Flying"
+      },
+      {
+        "name": "Vespiquen",
+        "power": "Bug · Flying"
+      },
+      {
+        "name": "Pachirisu",
+        "power": "Electric"
+      },
+      {
+        "name": "Buizel",
+        "power": "Water"
+      },
+      {
+        "name": "Floatzel",
+        "power": "Water"
+      },
+      {
+        "name": "Cherubi",
+        "power": "Grass"
+      },
+      {
+        "name": "Cherrim",
+        "power": "Grass"
+      },
+      {
+        "name": "Shellos",
+        "power": "Water"
+      },
+      {
+        "name": "Gastrodon",
+        "power": "Water · Ground"
+      },
+      {
+        "name": "Ambipom",
+        "power": "Normal"
+      },
+      {
+        "name": "Drifloon",
+        "power": "Ghost · Flying"
+      },
+      {
+        "name": "Drifblim",
+        "power": "Ghost · Flying"
+      },
+      {
+        "name": "Buneary",
+        "power": "Normal"
+      },
+      {
+        "name": "Lopunny",
+        "power": "Normal"
+      },
+      {
+        "name": "Mismagius",
+        "power": "Ghost"
+      },
+      {
+        "name": "Honchkrow",
+        "power": "Dark · Flying"
+      },
+      {
+        "name": "Glameow",
+        "power": "Normal"
+      },
+      {
+        "name": "Purugly",
+        "power": "Normal"
+      },
+      {
+        "name": "Chingling",
+        "power": "Psychic"
+      },
+      {
+        "name": "Stunky",
+        "power": "Poison · Dark"
+      },
+      {
+        "name": "Skuntank",
+        "power": "Poison · Dark"
+      },
+      {
+        "name": "Bronzor",
+        "power": "Steel · Psychic"
+      },
+      {
+        "name": "Bronzong",
+        "power": "Steel · Psychic"
+      },
+      {
+        "name": "Bonsly",
+        "power": "Rock"
+      },
+      {
+        "name": "Mime Jr.",
+        "power": "Psychic · Fairy"
+      },
+      {
+        "name": "Happiny",
+        "power": "Normal"
+      },
+      {
+        "name": "Chatot",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Spiritomb",
+        "power": "Ghost · Dark"
+      },
+      {
+        "name": "Gible",
+        "power": "Dragon · Ground"
+      },
+      {
+        "name": "Gabite",
+        "power": "Dragon · Ground"
+      },
+      {
+        "name": "Garchomp",
+        "power": "Dragon · Ground"
+      },
+      {
+        "name": "Munchlax",
+        "power": "Normal"
+      },
+      {
+        "name": "Riolu",
+        "power": "Fighting"
+      },
+      {
+        "name": "Lucario",
+        "power": "Fighting · Steel"
+      },
+      {
+        "name": "Hippopotas",
+        "power": "Ground"
+      },
+      {
+        "name": "Hippowdon",
+        "power": "Ground"
+      },
+      {
+        "name": "Skorupi",
+        "power": "Poison · Bug"
+      },
+      {
+        "name": "Drapion",
+        "power": "Poison · Dark"
+      },
+      {
+        "name": "Croagunk",
+        "power": "Poison · Fighting"
+      },
+      {
+        "name": "Toxicroak",
+        "power": "Poison · Fighting"
+      },
+      {
+        "name": "Carnivine",
+        "power": "Grass"
+      },
+      {
+        "name": "Finneon",
+        "power": "Water"
+      },
+      {
+        "name": "Lumineon",
+        "power": "Water"
+      },
+      {
+        "name": "Mantyke",
+        "power": "Water · Flying"
+      },
+      {
+        "name": "Snover",
+        "power": "Grass · Ice"
+      },
+      {
+        "name": "Abomasnow",
+        "power": "Grass · Ice"
+      },
+      {
+        "name": "Weavile",
+        "power": "Dark · Ice"
+      },
+      {
+        "name": "Magnezone",
+        "power": "Electric · Steel"
+      },
+      {
+        "name": "Lickilicky",
+        "power": "Normal"
+      },
+      {
+        "name": "Rhyperior",
+        "power": "Ground · Rock"
+      },
+      {
+        "name": "Tangrowth",
+        "power": "Grass"
+      },
+      {
+        "name": "Electivire",
+        "power": "Electric"
+      },
+      {
+        "name": "Magmortar",
+        "power": "Fire"
+      },
+      {
+        "name": "Togekiss",
+        "power": "Fairy · Flying"
+      },
+      {
+        "name": "Yanmega",
+        "power": "Bug · Flying"
+      },
+      {
+        "name": "Leafeon",
+        "power": "Grass"
+      },
+      {
+        "name": "Glaceon",
+        "power": "Ice"
+      },
+      {
+        "name": "Gliscor",
+        "power": "Ground · Flying"
+      },
+      {
+        "name": "Mamoswine",
+        "power": "Ice · Ground"
+      },
+      {
+        "name": "Porygon-Z",
+        "power": "Normal"
+      },
+      {
+        "name": "Gallade",
+        "power": "Psychic · Fighting"
+      },
+      {
+        "name": "Probopass",
+        "power": "Rock · Steel"
+      },
+      {
+        "name": "Dusknoir",
+        "power": "Ghost"
+      },
+      {
+        "name": "Froslass",
+        "power": "Ice · Ghost"
+      },
+      {
+        "name": "Rotom",
+        "power": "Electric · Ghost"
+      },
+      {
+        "name": "Uxie",
+        "power": "Psychic"
+      },
+      {
+        "name": "Mesprit",
+        "power": "Psychic"
+      },
+      {
+        "name": "Azelf",
+        "power": "Psychic"
+      },
+      {
+        "name": "Dialga",
+        "power": "Steel · Dragon"
+      },
+      {
+        "name": "Palkia",
+        "power": "Water · Dragon"
+      },
+      {
+        "name": "Heatran",
+        "power": "Fire · Steel"
+      },
+      {
+        "name": "Regigigas",
+        "power": "Normal"
+      },
+      {
+        "name": "Giratina",
+        "power": "Ghost · Dragon"
+      },
+      {
+        "name": "Cresselia",
+        "power": "Psychic"
+      },
+      {
+        "name": "Phione",
+        "power": "Water"
+      },
+      {
+        "name": "Manaphy",
+        "power": "Water"
+      },
+      {
+        "name": "Darkrai",
+        "power": "Dark"
+      },
+      {
+        "name": "Shaymin",
+        "power": "Grass"
+      },
+      {
+        "name": "Arceus",
+        "power": "Normal"
+      },
+      {
+        "name": "Victini",
+        "power": "Psychic · Fire"
+      },
+      {
+        "name": "Snivy",
+        "power": "Grass"
+      },
+      {
+        "name": "Servine",
+        "power": "Grass"
+      },
+      {
+        "name": "Serperior",
+        "power": "Grass"
+      },
+      {
+        "name": "Tepig",
+        "power": "Fire"
+      },
+      {
+        "name": "Pignite",
+        "power": "Fire · Fighting"
+      },
+      {
+        "name": "Emboar",
+        "power": "Fire · Fighting"
+      },
+      {
+        "name": "Oshawott",
+        "power": "Water"
+      },
+      {
+        "name": "Dewott",
+        "power": "Water"
+      },
+      {
+        "name": "Samurott",
+        "power": "Water"
+      },
+      {
+        "name": "Patrat",
+        "power": "Normal"
+      },
+      {
+        "name": "Watchog",
+        "power": "Normal"
+      },
+      {
+        "name": "Lillipup",
+        "power": "Normal"
+      },
+      {
+        "name": "Herdier",
+        "power": "Normal"
+      },
+      {
+        "name": "Stoutland",
+        "power": "Normal"
+      },
+      {
+        "name": "Purrloin",
+        "power": "Dark"
+      },
+      {
+        "name": "Liepard",
+        "power": "Dark"
+      },
+      {
+        "name": "Pansage",
+        "power": "Grass"
+      },
+      {
+        "name": "Simisage",
+        "power": "Grass"
+      },
+      {
+        "name": "Pansear",
+        "power": "Fire"
+      },
+      {
+        "name": "Simisear",
+        "power": "Fire"
+      },
+      {
+        "name": "Panpour",
+        "power": "Water"
+      },
+      {
+        "name": "Simipour",
+        "power": "Water"
+      },
+      {
+        "name": "Munna",
+        "power": "Psychic"
+      },
+      {
+        "name": "Musharna",
+        "power": "Psychic"
+      },
+      {
+        "name": "Pidove",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Tranquill",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Unfezant",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Blitzle",
+        "power": "Electric"
+      },
+      {
+        "name": "Zebstrika",
+        "power": "Electric"
+      },
+      {
+        "name": "Roggenrola",
+        "power": "Rock"
+      },
+      {
+        "name": "Boldore",
+        "power": "Rock"
+      },
+      {
+        "name": "Gigalith",
+        "power": "Rock"
+      },
+      {
+        "name": "Woobat",
+        "power": "Psychic · Flying"
+      },
+      {
+        "name": "Swoobat",
+        "power": "Psychic · Flying"
+      },
+      {
+        "name": "Drilbur",
+        "power": "Ground"
+      },
+      {
+        "name": "Excadrill",
+        "power": "Ground · Steel"
+      },
+      {
+        "name": "Audino",
+        "power": "Normal"
+      },
+      {
+        "name": "Timburr",
+        "power": "Fighting"
+      },
+      {
+        "name": "Gurdurr",
+        "power": "Fighting"
+      },
+      {
+        "name": "Conkeldurr",
+        "power": "Fighting"
+      },
+      {
+        "name": "Tympole",
+        "power": "Water"
+      },
+      {
+        "name": "Palpitoad",
+        "power": "Water · Ground"
+      },
+      {
+        "name": "Seismitoad",
+        "power": "Water · Ground"
+      },
+      {
+        "name": "Throh",
+        "power": "Fighting"
+      },
+      {
+        "name": "Sawk",
+        "power": "Fighting"
+      },
+      {
+        "name": "Sewaddle",
+        "power": "Bug · Grass"
+      },
+      {
+        "name": "Swadloon",
+        "power": "Bug · Grass"
+      },
+      {
+        "name": "Leavanny",
+        "power": "Bug · Grass"
+      },
+      {
+        "name": "Venipede",
+        "power": "Bug · Poison"
+      },
+      {
+        "name": "Whirlipede",
+        "power": "Bug · Poison"
+      },
+      {
+        "name": "Scolipede",
+        "power": "Bug · Poison"
+      },
+      {
+        "name": "Cottonee",
+        "power": "Grass · Fairy"
+      },
+      {
+        "name": "Whimsicott",
+        "power": "Grass · Fairy"
+      },
+      {
+        "name": "Petilil",
+        "power": "Grass"
+      },
+      {
+        "name": "Lilligant",
+        "power": "Grass"
+      },
+      {
+        "name": "Basculin",
+        "power": "Water"
+      },
+      {
+        "name": "Sandile",
+        "power": "Ground · Dark"
+      },
+      {
+        "name": "Krokorok",
+        "power": "Ground · Dark"
+      },
+      {
+        "name": "Krookodile",
+        "power": "Ground · Dark"
+      },
+      {
+        "name": "Darumaka",
+        "power": "Fire"
+      },
+      {
+        "name": "Darmanitan",
+        "power": "Fire"
+      },
+      {
+        "name": "Maractus",
+        "power": "Grass"
+      },
+      {
+        "name": "Dwebble",
+        "power": "Bug · Rock"
+      },
+      {
+        "name": "Crustle",
+        "power": "Bug · Rock"
+      },
+      {
+        "name": "Scraggy",
+        "power": "Dark · Fighting"
+      },
+      {
+        "name": "Scrafty",
+        "power": "Dark · Fighting"
+      },
+      {
+        "name": "Sigilyph",
+        "power": "Psychic · Flying"
+      },
+      {
+        "name": "Yamask",
+        "power": "Ghost"
+      },
+      {
+        "name": "Cofagrigus",
+        "power": "Ghost"
+      },
+      {
+        "name": "Tirtouga",
+        "power": "Water · Rock"
+      },
+      {
+        "name": "Carracosta",
+        "power": "Water · Rock"
+      },
+      {
+        "name": "Archen",
+        "power": "Rock · Flying"
+      },
+      {
+        "name": "Archeops",
+        "power": "Rock · Flying"
+      },
+      {
+        "name": "Trubbish",
+        "power": "Poison"
+      },
+      {
+        "name": "Garbodor",
+        "power": "Poison"
+      },
+      {
+        "name": "Zorua",
+        "power": "Dark"
+      },
+      {
+        "name": "Zoroark",
+        "power": "Dark"
+      },
+      {
+        "name": "Minccino",
+        "power": "Normal"
+      },
+      {
+        "name": "Cinccino",
+        "power": "Normal"
+      },
+      {
+        "name": "Gothita",
+        "power": "Psychic"
+      },
+      {
+        "name": "Gothorita",
+        "power": "Psychic"
+      },
+      {
+        "name": "Gothitelle",
+        "power": "Psychic"
+      },
+      {
+        "name": "Solosis",
+        "power": "Psychic"
+      },
+      {
+        "name": "Duosion",
+        "power": "Psychic"
+      },
+      {
+        "name": "Reuniclus",
+        "power": "Psychic"
+      },
+      {
+        "name": "Ducklett",
+        "power": "Water · Flying"
+      },
+      {
+        "name": "Swanna",
+        "power": "Water · Flying"
+      },
+      {
+        "name": "Vanillite",
+        "power": "Ice"
+      },
+      {
+        "name": "Vanillish",
+        "power": "Ice"
+      },
+      {
+        "name": "Vanilluxe",
+        "power": "Ice"
+      },
+      {
+        "name": "Deerling",
+        "power": "Normal · Grass"
+      },
+      {
+        "name": "Sawsbuck",
+        "power": "Normal · Grass"
+      },
+      {
+        "name": "Emolga",
+        "power": "Electric · Flying"
+      },
+      {
+        "name": "Karrablast",
+        "power": "Bug"
+      },
+      {
+        "name": "Escavalier",
+        "power": "Bug · Steel"
+      },
+      {
+        "name": "Foongus",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Amoonguss",
+        "power": "Grass · Poison"
+      },
+      {
+        "name": "Frillish",
+        "power": "Water · Ghost"
+      },
+      {
+        "name": "Jellicent",
+        "power": "Water · Ghost"
+      },
+      {
+        "name": "Alomomola",
+        "power": "Water"
+      },
+      {
+        "name": "Joltik",
+        "power": "Bug · Electric"
+      },
+      {
+        "name": "Galvantula",
+        "power": "Bug · Electric"
+      },
+      {
+        "name": "Ferroseed",
+        "power": "Grass · Steel"
+      },
+      {
+        "name": "Ferrothorn",
+        "power": "Grass · Steel"
+      },
+      {
+        "name": "Klink",
+        "power": "Steel"
+      },
+      {
+        "name": "Klang",
+        "power": "Steel"
+      },
+      {
+        "name": "Klinklang",
+        "power": "Steel"
+      },
+      {
+        "name": "Tynamo",
+        "power": "Electric"
+      },
+      {
+        "name": "Eelektrik",
+        "power": "Electric"
+      },
+      {
+        "name": "Eelektross",
+        "power": "Electric"
+      },
+      {
+        "name": "Elgyem",
+        "power": "Psychic"
+      },
+      {
+        "name": "Beheeyem",
+        "power": "Psychic"
+      },
+      {
+        "name": "Litwick",
+        "power": "Ghost · Fire"
+      },
+      {
+        "name": "Lampent",
+        "power": "Ghost · Fire"
+      },
+      {
+        "name": "Chandelure",
+        "power": "Ghost · Fire"
+      },
+      {
+        "name": "Axew",
+        "power": "Dragon"
+      },
+      {
+        "name": "Fraxure",
+        "power": "Dragon"
+      },
+      {
+        "name": "Haxorus",
+        "power": "Dragon"
+      },
+      {
+        "name": "Cubchoo",
+        "power": "Ice"
+      },
+      {
+        "name": "Beartic",
+        "power": "Ice"
+      },
+      {
+        "name": "Cryogonal",
+        "power": "Ice"
+      },
+      {
+        "name": "Shelmet",
+        "power": "Bug"
+      },
+      {
+        "name": "Accelgor",
+        "power": "Bug"
+      },
+      {
+        "name": "Stunfisk",
+        "power": "Ground · Electric"
+      },
+      {
+        "name": "Mienfoo",
+        "power": "Fighting"
+      },
+      {
+        "name": "Mienshao",
+        "power": "Fighting"
+      },
+      {
+        "name": "Druddigon",
+        "power": "Dragon"
+      },
+      {
+        "name": "Golett",
+        "power": "Ground · Ghost"
+      },
+      {
+        "name": "Golurk",
+        "power": "Ground · Ghost"
+      },
+      {
+        "name": "Pawniard",
+        "power": "Dark · Steel"
+      },
+      {
+        "name": "Bisharp",
+        "power": "Dark · Steel"
+      },
+      {
+        "name": "Bouffalant",
+        "power": "Normal"
+      },
+      {
+        "name": "Rufflet",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Braviary",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Vullaby",
+        "power": "Dark · Flying"
+      },
+      {
+        "name": "Mandibuzz",
+        "power": "Dark · Flying"
+      },
+      {
+        "name": "Heatmor",
+        "power": "Fire"
+      },
+      {
+        "name": "Durant",
+        "power": "Bug · Steel"
+      },
+      {
+        "name": "Deino",
+        "power": "Dark · Dragon"
+      },
+      {
+        "name": "Zweilous",
+        "power": "Dark · Dragon"
+      },
+      {
+        "name": "Hydreigon",
+        "power": "Dark · Dragon"
+      },
+      {
+        "name": "Larvesta",
+        "power": "Bug · Fire"
+      },
+      {
+        "name": "Volcarona",
+        "power": "Bug · Fire"
+      },
+      {
+        "name": "Cobalion",
+        "power": "Steel · Fighting"
+      },
+      {
+        "name": "Terrakion",
+        "power": "Rock · Fighting"
+      },
+      {
+        "name": "Virizion",
+        "power": "Grass · Fighting"
+      },
+      {
+        "name": "Tornadus",
+        "power": "Flying"
+      },
+      {
+        "name": "Thundurus",
+        "power": "Electric · Flying"
+      },
+      {
+        "name": "Reshiram",
+        "power": "Dragon · Fire"
+      },
+      {
+        "name": "Zekrom",
+        "power": "Dragon · Electric"
+      },
+      {
+        "name": "Landorus",
+        "power": "Ground · Flying"
+      },
+      {
+        "name": "Kyurem",
+        "power": "Dragon · Ice"
+      },
+      {
+        "name": "Keldeo",
+        "power": "Water · Fighting"
+      },
+      {
+        "name": "Meloetta",
+        "power": "Normal · Psychic"
+      },
+      {
+        "name": "Genesect",
+        "power": "Bug · Steel"
+      },
+      {
+        "name": "Chespin",
+        "power": "Grass"
+      },
+      {
+        "name": "Quilladin",
+        "power": "Grass"
+      },
+      {
+        "name": "Chesnaught",
+        "power": "Grass · Fighting"
+      },
+      {
+        "name": "Fennekin",
+        "power": "Fire"
+      },
+      {
+        "name": "Braixen",
+        "power": "Fire"
+      },
+      {
+        "name": "Delphox",
+        "power": "Fire · Psychic"
+      },
+      {
+        "name": "Froakie",
+        "power": "Water"
+      },
+      {
+        "name": "Frogadier",
+        "power": "Water"
+      },
+      {
+        "name": "Greninja",
+        "power": "Water · Dark"
+      },
+      {
+        "name": "Bunnelby",
+        "power": "Normal"
+      },
+      {
+        "name": "Diggersby",
+        "power": "Normal · Ground"
+      },
+      {
+        "name": "Fletchling",
+        "power": "Normal · Flying"
+      },
+      {
+        "name": "Fletchinder",
+        "power": "Fire · Flying"
+      },
+      {
+        "name": "Talonflame",
+        "power": "Fire · Flying"
+      },
+      {
+        "name": "Scatterbug",
+        "power": "Bug"
+      },
+      {
+        "name": "Spewpa",
+        "power": "Bug"
+      },
+      {
+        "name": "Vivillon",
+        "power": "Bug · Flying"
+      },
+      {
+        "name": "Litleo",
+        "power": "Fire · Normal"
+      },
+      {
+        "name": "Pyroar",
+        "power": "Fire · Normal"
+      },
+      {
+        "name": "Flabébé",
+        "power": "Fairy"
+      },
+      {
+        "name": "Floette",
+        "power": "Fairy"
+      },
+      {
+        "name": "Florges",
+        "power": "Fairy"
+      },
+      {
+        "name": "Skiddo",
+        "power": "Grass"
+      },
+      {
+        "name": "Gogoat",
+        "power": "Grass"
+      },
+      {
+        "name": "Pancham",
+        "power": "Fighting"
+      },
+      {
+        "name": "Pangoro",
+        "power": "Fighting · Dark"
+      },
+      {
+        "name": "Furfrou",
+        "power": "Normal"
+      },
+      {
+        "name": "Espurr",
+        "power": "Psychic"
+      },
+      {
+        "name": "Meowstic",
+        "power": "Psychic"
+      },
+      {
+        "name": "Honedge",
+        "power": "Steel · Ghost"
+      },
+      {
+        "name": "Doublade",
+        "power": "Steel · Ghost"
+      },
+      {
+        "name": "Aegislash",
+        "power": "Steel · Ghost"
+      },
+      {
+        "name": "Spritzee",
+        "power": "Fairy"
+      },
+      {
+        "name": "Aromatisse",
+        "power": "Fairy"
+      },
+      {
+        "name": "Swirlix",
+        "power": "Fairy"
+      },
+      {
+        "name": "Slurpuff",
+        "power": "Fairy"
+      },
+      {
+        "name": "Inkay",
+        "power": "Dark · Psychic"
+      },
+      {
+        "name": "Malamar",
+        "power": "Dark · Psychic"
+      },
+      {
+        "name": "Binacle",
+        "power": "Rock · Water"
+      },
+      {
+        "name": "Barbaracle",
+        "power": "Rock · Water"
+      },
+      {
+        "name": "Skrelp",
+        "power": "Poison · Water"
+      },
+      {
+        "name": "Dragalge",
+        "power": "Poison · Dragon"
+      },
+      {
+        "name": "Clauncher",
+        "power": "Water"
+      },
+      {
+        "name": "Clawitzer",
+        "power": "Water"
+      },
+      {
+        "name": "Helioptile",
+        "power": "Electric · Normal"
+      },
+      {
+        "name": "Heliolisk",
+        "power": "Electric · Normal"
+      },
+      {
+        "name": "Tyrunt",
+        "power": "Rock · Dragon"
+      },
+      {
+        "name": "Tyrantrum",
+        "power": "Rock · Dragon"
+      },
+      {
+        "name": "Amaura",
+        "power": "Rock · Ice"
+      },
+      {
+        "name": "Aurorus",
+        "power": "Rock · Ice"
+      },
+      {
+        "name": "Sylveon",
+        "power": "Fairy"
+      },
+      {
+        "name": "Hawlucha",
+        "power": "Fighting · Flying"
+      },
+      {
+        "name": "Dedenne",
+        "power": "Electric · Fairy"
+      },
+      {
+        "name": "Carbink",
+        "power": "Rock · Fairy"
+      },
+      {
+        "name": "Goomy",
+        "power": "Dragon"
+      },
+      {
+        "name": "Sliggoo",
+        "power": "Dragon"
+      },
+      {
+        "name": "Goodra",
+        "power": "Dragon"
+      },
+      {
+        "name": "Klefki",
+        "power": "Steel · Fairy"
+      },
+      {
+        "name": "Phantump",
+        "power": "Ghost · Grass"
+      },
+      {
+        "name": "Trevenant",
+        "power": "Ghost · Grass"
+      },
+      {
+        "name": "Pumpkaboo",
+        "power": "Ghost · Grass"
+      },
+      {
+        "name": "Gourgeist",
+        "power": "Ghost · Grass"
+      },
+      {
+        "name": "Bergmite",
+        "power": "Ice"
+      },
+      {
+        "name": "Avalugg",
+        "power": "Ice"
+      },
+      {
+        "name": "Noibat",
+        "power": "Flying · Dragon"
+      },
+      {
+        "name": "Noivern",
+        "power": "Flying · Dragon"
+      },
+      {
+        "name": "Xerneas",
+        "power": "Fairy"
+      },
+      {
+        "name": "Yveltal",
+        "power": "Dark · Flying"
+      },
+      {
+        "name": "Zygarde",
+        "power": "Dragon · Ground"
+      },
+      {
+        "name": "Diancie",
+        "power": "Rock · Fairy"
+      },
+      {
+        "name": "Hoopa",
+        "power": "Psychic · Ghost"
+      },
+      {
+        "name": "Volcanion",
+        "power": "Fire · Water"
+      }
+    ]
+  }
+]
