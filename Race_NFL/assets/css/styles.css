@@ -199,7 +199,7 @@ a:link, a:visited {
 
 .teams-list .team-photo{
 	display: block;
-	width: 110px;
+	width: 100px;
 	margin-top: 5px;
 	margin-bottom: 10px;
 	/*box-sizing: border-box;*/
@@ -383,9 +383,9 @@ all and (max-device-height: 480px) and (orientation: landscape){
 
 	.button2 {
     text-align: center;
-    width: 360px;
-    font-size: 20px;
-     float: none;
+    width: 380px;
+    font-size: 27px;
+    float: none;
 
     }
 
