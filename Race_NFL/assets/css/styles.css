@@ -385,5 +385,13 @@ all and (max-device-height: 480px) and (orientation: landscape){
     font-size: 50px;
 
     }
+
+    .enter-btn {
+    margin-top: 80px;
+    width: 360px;
+    font-size: 40px;
+    height: 110px;
+    
+
 }
 
