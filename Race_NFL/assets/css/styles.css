@@ -363,6 +363,15 @@ all and (max-device-height: 480px) and (orientation: landscape){
 
     }
 
+     .enter-btn {
+    margin-top: 80px;
+    width: 360px;
+    font-size: 40px;
+    height: 110px;
+    
+
+}
+
     
 
 }
@@ -393,5 +402,6 @@ all and (max-device-height: 480px) and (orientation: landscape){
     height: 110px;
     
 
+}
 }
 
