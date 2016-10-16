@@ -123,166 +123,166 @@ app.main = (function() {
 
 		$("#c1").click(function() {
    		 $(".teams-list > li").css("background","#27662f");
-   		 $("[data-index='3']").css("background","lightblue");
-   		 $("[data-index='6']").css("background","lightblue");
-   		 $("[data-index='7']").css("background","lightblue");
-   		 $("[data-index='8']").css("background","lightblue");
-   		 $("[data-index='12']").css("background","lightblue");
-   		 $("[data-index='21']").css("background","lightblue");
-   		 $("[data-index='24']").css("background","lightblue");
-   		 $("[data-index='26']").css("background","lightblue");
-   		 $("[data-index='29']").css("background","lightblue");
-   		 $("[data-index='32']").css("background","lightblue");
+   		 $("[data-index='3']").css("background","white");
+   		 $("[data-index='6']").css("background","white");
+   		 $("[data-index='7']").css("background","white");
+   		 $("[data-index='8']").css("background","white");
+   		 $("[data-index='12']").css("background","white");
+   		 $("[data-index='21']").css("background","white");
+   		 $("[data-index='24']").css("background","white");
+   		 $("[data-index='26']").css("background","white");
+   		 $("[data-index='29']").css("background","white");
+   		 $("[data-index='32']").css("background","white");
    		 });
 
 		 $("#c2").click(function() {
    		 $(".teams-list > li").css("background","#27662f");
-   		 $("[data-index='1']").css("background","lightblue");
-   		 $("[data-index='2']").css("background","lightblue");
-   		 $("[data-index='4']").css("background","lightblue");
-   		 $("[data-index='5']").css("background","lightblue");
-   		 $("[data-index='10']").css("background","lightblue");
-   		 $("[data-index='11']").css("background","lightblue");
-   		 $("[data-index='14']").css("background","lightblue");
-   		 $("[data-index='16']").css("background","lightblue");
-   		 $("[data-index='17']").css("background","lightblue");
-   		 $("[data-index='18']").css("background","lightblue");
-   		 $("[data-index='20']").css("background","lightblue");
-   		 $("[data-index='25']").css("background","lightblue");
-   		 $("[data-index='27']").css("background","lightblue");
-   		 $("[data-index='28']").css("background","lightblue");
-   		 $("[data-index='30']").css("background","lightblue");
+   		 $("[data-index='1']").css("background","white");
+   		 $("[data-index='2']").css("background","white");
+   		 $("[data-index='4']").css("background","white");
+   		 $("[data-index='5']").css("background","white");
+   		 $("[data-index='10']").css("background","white");
+   		 $("[data-index='11']").css("background","white");
+   		 $("[data-index='14']").css("background","white");
+   		 $("[data-index='16']").css("background","white");
+   		 $("[data-index='17']").css("background","white");
+   		 $("[data-index='18']").css("background","white");
+   		 $("[data-index='20']").css("background","white");
+   		 $("[data-index='25']").css("background","white");
+   		 $("[data-index='27']").css("background","white");
+   		 $("[data-index='28']").css("background","white");
+   		 $("[data-index='30']").css("background","white");
    		});
 
    		 $("#b2").click(function() {
    		 $(".teams-list > li").css("background","#27662f");
-   		 $("[data-index='3']").css("background","lightblue");
-   		 $("[data-index='6']").css("background","lightblue");
-   		 $("[data-index='7']").css("background","lightblue");
-   		 $("[data-index='8']").css("background","lightblue");
-   		 $("[data-index='12']").css("background","lightblue");
-   		 $("[data-index='13']").css("background","lightblue");
-   		 $("[data-index='24']").css("background","lightblue");
-   		 $("[data-index='26']").css("background","lightblue");
-   		 $("[data-index='32']").css("background","lightblue");
+   		 $("[data-index='3']").css("background","white");
+   		 $("[data-index='6']").css("background","white");
+   		 $("[data-index='7']").css("background","white");
+   		 $("[data-index='8']").css("background","white");
+   		 $("[data-index='12']").css("background","white");
+   		 $("[data-index='13']").css("background","white");
+   		 $("[data-index='24']").css("background","white");
+   		 $("[data-index='26']").css("background","white");
+   		 $("[data-index='32']").css("background","white");
    		 });
 
    		 $("#b1").click(function() {
    		 $(".teams-list > li").css("background","#27662f");
-   		 $("[data-index='1']").css("background","lightblue");
-   		 $("[data-index='2']").css("background","lightblue");
-   		 $("[data-index='4']").css("background","lightblue");
-   		 $("[data-index='5']").css("background","lightblue");
-   		 $("[data-index='9']").css("background","lightblue");
-   		 $("[data-index='10']").css("background","lightblue");
-   		 $("[data-index='11']").css("background","lightblue");
-   		 $("[data-index='14']").css("background","lightblue");
-   		 $("[data-index='15']").css("background","lightblue");
-   		 $("[data-index='17']").css("background","lightblue");
-   		 $("[data-index='18']").css("background","lightblue");
-   		 $("[data-index='20']").css("background","lightblue");
-   		 $("[data-index='22']").css("background","lightblue");
-   		 $("[data-index='25']").css("background","lightblue");
-   		 $("[data-index='27']").css("background","lightblue");
-   		 $("[data-index='28']").css("background","lightblue");
-   		 $("[data-index='29']").css("background","lightblue");
-   		 $("[data-index='30']").css("background","lightblue");
-   		 $("[data-index='31']").css("background","lightblue");
+   		 $("[data-index='1']").css("background","white");
+   		 $("[data-index='2']").css("background","white");
+   		 $("[data-index='4']").css("background","white");
+   		 $("[data-index='5']").css("background","white");
+   		 $("[data-index='9']").css("background","white");
+   		 $("[data-index='10']").css("background","white");
+   		 $("[data-index='11']").css("background","white");
+   		 $("[data-index='14']").css("background","white");
+   		 $("[data-index='15']").css("background","white");
+   		 $("[data-index='17']").css("background","white");
+   		 $("[data-index='18']").css("background","white");
+   		 $("[data-index='20']").css("background","white");
+   		 $("[data-index='22']").css("background","white");
+   		 $("[data-index='25']").css("background","white");
+   		 $("[data-index='27']").css("background","white");
+   		 $("[data-index='28']").css("background","white");
+   		 $("[data-index='29']").css("background","white");
+   		 $("[data-index='30']").css("background","white");
+   		 $("[data-index='31']").css("background","white");
    		 });
 
 
    		 $("#h1").click(function() {
    		 $(".teams-list > li").css("background","#27662f");
-   		 $("[data-index='3']").css("background","lightblue");
-   		 $("[data-index='5']").css("background","lightblue");
-   		 $("[data-index='13']").css("background","lightblue");
-   		 $("[data-index='16']").css("background","lightblue");
-   		 $("[data-index='30']").css("background","lightblue");
+   		 $("[data-index='3']").css("background","white");
+   		 $("[data-index='5']").css("background","white");
+   		 $("[data-index='13']").css("background","white");
+   		 $("[data-index='16']").css("background","white");
+   		 $("[data-index='30']").css("background","white");
    		 });
 
    		 $("#h2").click(function() {
    		 $(".teams-list > li").css("background","#27662f");
-   		 $("[data-index='1']").css("background","lightblue");
-   		 $("[data-index='2']").css("background","lightblue");
-   		 $("[data-index='4']").css("background","lightblue");
-   		 $("[data-index='6']").css("background","lightblue");
-   		 $("[data-index='7']").css("background","lightblue");
-   		 $("[data-index='8']").css("background","lightblue");
-   		 $("[data-index='9']").css("background","lightblue");
-   		 $("[data-index='10']").css("background","lightblue");
-   		 $("[data-index='11']").css("background","lightblue");
-   		 $("[data-index='12']").css("background","lightblue");
-   		 $("[data-index='14']").css("background","lightblue");
-   		 $("[data-index='15']").css("background","lightblue");
-   		 $("[data-index='17']").css("background","lightblue");
-   		 $("[data-index='18']").css("background","lightblue");
-   		 $("[data-index='19']").css("background","lightblue");
-   		 $("[data-index='20']").css("background","lightblue");
-   		 $("[data-index='21']").css("background","lightblue");
-   		 $("[data-index='22']").css("background","lightblue");
-   		 $("[data-index='23']").css("background","lightblue");
-   		 $("[data-index='24']").css("background","lightblue");
-   		 $("[data-index='25']").css("background","lightblue");
-   		 $("[data-index='26']").css("background","lightblue");
-   		 $("[data-index='27']").css("background","lightblue");
-   		 $("[data-index='28']").css("background","lightblue");
-   		 $("[data-index='29']").css("background","lightblue");
-   		 $("[data-index='31']").css("background","lightblue");
-   		 $("[data-index='32']").css("background","lightblue");
+   		 $("[data-index='1']").css("background","white");
+   		 $("[data-index='2']").css("background","white");
+   		 $("[data-index='4']").css("background","white");
+   		 $("[data-index='6']").css("background","white");
+   		 $("[data-index='7']").css("background","white");
+   		 $("[data-index='8']").css("background","white");
+   		 $("[data-index='9']").css("background","white");
+   		 $("[data-index='10']").css("background","white");
+   		 $("[data-index='11']").css("background","white");
+   		 $("[data-index='12']").css("background","white");
+   		 $("[data-index='14']").css("background","white");
+   		 $("[data-index='15']").css("background","white");
+   		 $("[data-index='17']").css("background","white");
+   		 $("[data-index='18']").css("background","white");
+   		 $("[data-index='19']").css("background","white");
+   		 $("[data-index='20']").css("background","white");
+   		 $("[data-index='21']").css("background","white");
+   		 $("[data-index='22']").css("background","white");
+   		 $("[data-index='23']").css("background","white");
+   		 $("[data-index='24']").css("background","white");
+   		 $("[data-index='25']").css("background","white");
+   		 $("[data-index='26']").css("background","white");
+   		 $("[data-index='27']").css("background","white");
+   		 $("[data-index='28']").css("background","white");
+   		 $("[data-index='29']").css("background","white");
+   		 $("[data-index='31']").css("background","white");
+   		 $("[data-index='32']").css("background","white");
    		 });
 
    		 $("#a1").click(function() {
    		 $(".teams-list > li").css("background","#27662f");
-   		 $("[data-index='2']").css("background","lightblue");
-   		 $("[data-index='7']").css("background","lightblue");
-   		 $("[data-index='12']").css("background","lightblue");
-   		 $("[data-index='15']").css("background","lightblue");
-   		 $("[data-index='19']").css("background","lightblue");
-   		 $("[data-index='26']").css("background","lightblue");
-   		 $("[data-index='27']").css("background","lightblue");
-   		 $("[data-index='29']").css("background","lightblue");
+   		 $("[data-index='2']").css("background","white");
+   		 $("[data-index='7']").css("background","white");
+   		 $("[data-index='12']").css("background","white");
+   		 $("[data-index='15']").css("background","white");
+   		 $("[data-index='19']").css("background","white");
+   		 $("[data-index='26']").css("background","white");
+   		 $("[data-index='27']").css("background","white");
+   		 $("[data-index='29']").css("background","white");
    		 });
 
    		 $("#a2").click(function() {
    		 $(".teams-list > li").css("background","#27662f");
-   		 $("[data-index='1']").css("background","lightblue");
-   		 $("[data-index='3']").css("background","lightblue");
-   		 $("[data-index='4']").css("background","lightblue");
-   		 $("[data-index='5']").css("background","lightblue");
-   		 $("[data-index='6']").css("background","lightblue");
-   		 $("[data-index='8']").css("background","lightblue");
-   		 $("[data-index='9']").css("background","lightblue");
-   		 $("[data-index='10']").css("background","lightblue");
-   		 $("[data-index='11']").css("background","lightblue");
-   		 $("[data-index='13']").css("background","lightblue");
-   		 $("[data-index='14']").css("background","lightblue");
-   		 $("[data-index='16']").css("background","lightblue");
-   		 $("[data-index='17']").css("background","lightblue");
-   		 $("[data-index='18']").css("background","lightblue");
-   		 $("[data-index='20']").css("background","lightblue");
-   		 $("[data-index='21']").css("background","lightblue");
-   		 $("[data-index='22']").css("background","lightblue");
-   		 $("[data-index='23']").css("background","lightblue");
-   		 $("[data-index='24']").css("background","lightblue");
-   		 $("[data-index='25']").css("background","lightblue");
-   		 $("[data-index='28']").css("background","lightblue");
-   		 $("[data-index='30']").css("background","lightblue");
-   		 $("[data-index='31']").css("background","lightblue");
-   		 $("[data-index='32']").css("background","lightblue");
+   		 $("[data-index='1']").css("background","white");
+   		 $("[data-index='3']").css("background","white");
+   		 $("[data-index='4']").css("background","white");
+   		 $("[data-index='5']").css("background","white");
+   		 $("[data-index='6']").css("background","white");
+   		 $("[data-index='8']").css("background","white");
+   		 $("[data-index='9']").css("background","white");
+   		 $("[data-index='10']").css("background","white");
+   		 $("[data-index='11']").css("background","white");
+   		 $("[data-index='13']").css("background","white");
+   		 $("[data-index='14']").css("background","white");
+   		 $("[data-index='16']").css("background","white");
+   		 $("[data-index='17']").css("background","white");
+   		 $("[data-index='18']").css("background","white");
+   		 $("[data-index='20']").css("background","white");
+   		 $("[data-index='21']").css("background","white");
+   		 $("[data-index='22']").css("background","white");
+   		 $("[data-index='23']").css("background","white");
+   		 $("[data-index='24']").css("background","white");
+   		 $("[data-index='25']").css("background","white");
+   		 $("[data-index='28']").css("background","white");
+   		 $("[data-index='30']").css("background","white");
+   		 $("[data-index='31']").css("background","white");
+   		 $("[data-index='32']").css("background","white");
    		 });
 
 
 
 		// $("#c2").click(function() {
   //  		 $(".teams-list > li").css("background","#27662f");
-  //  		 $("[data-index='7']").css("background","lightblue");
+  //  		 $("[data-index='7']").css("background","white");
   //  		 });
 
 
 //i know this works for sorting. 
 		// $("#c1").click(function() {
   //  		//Now just reference this button and change CSS
-  //  		$("[data-index='5']").css("background","lightblue");
+  //  		$("[data-index='5']").css("background","white");
   //  		});
 
 

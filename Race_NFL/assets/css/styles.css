@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Rock+Salt');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Dosis:600');
 
 
 * {
@@ -42,8 +43,10 @@ body{
 	
 }
 
-h1, h3{
-	font: normal 27px Helvetica, sans-serif;
+
+h3 {
+	font-size: 30px;
+	font-family: 'Dosis', sans-serif;
 }
 
 p {
@@ -306,6 +309,7 @@ li[data-index='3'] {
 
 .teams-list .team-photo {
 	display: none;
+	margin-top: -10px;
 
 }
 
@@ -358,6 +362,9 @@ all and (max-device-height: 480px) and (orientation: landscape){
     width: 170px;
 
     }
+
+    
+
 }
 
 @media screen and (max-device-width: 500px) and (orientation: portrait){
@@ -370,6 +377,12 @@ all and (max-device-height: 480px) and (orientation: landscape){
     width: 360px;
     font-size: 20px;
      float: none;
+
+    }
+
+    #titleinfo {
+    margin-top: 20px;
+    font-size: 50px;
 
     }
 }
