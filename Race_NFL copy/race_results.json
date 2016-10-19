@@ -1,0 +1,330 @@
+[
+      
+
+    
+      {
+        "team-name":"Patriots",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/patriots_150.png",
+        "rank": 1,
+        "white": 18,
+        "black": 31,
+        "hispanic": 2,
+        "asianpacificislander": 1,
+        "other": 2
+      },
+      {
+        "team-name":"Vikings",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/vikings_150.png",
+        "rank": 2,
+        "white": 33,
+        "black": 18,
+        "hispanic": 1,
+        "asianpacificislander": 1,
+        "other": 0
+      },
+      {
+        "team-name":"Seahawks",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/seahawks_150.png",
+        "rank":3,
+        "white": 13,
+        "black": 38,
+        "hispanic": 0,
+        "asianpacificislander": 0,
+        "other": 2
+      },
+      {
+        "team-name":"Falcons",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/falcons_150.png",
+        "rank": 4,
+        "white": 17,
+        "black": 34,
+        "hispanic": 0,
+        "asianpacificislander": 2,
+        "other": 0
+      },
+      {
+        "team-name":"Cowboys",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/cowboys_150.png",
+        "rank": 5,
+        "white": 15,
+        "black": 32,
+        "hispanic": 2,
+        "asianpacificislander": 0,
+        "other": 3
+      },
+      {
+        "team-name":"Broncos",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/broncos_150.png",
+        "rank":6,
+        "white": 14,
+        "black": 38,
+        "hispanic": 2,
+        "asianpacificislander": 0,
+        "other": 3
+      },
+      {
+        "team-name":"Packers",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/packers_150.png",
+        "rank": 7,
+        "white": 19,
+        "black": 32,
+        "hispanic": 0,
+        "asianpacificislander": 0,
+        "other": 3
+      },
+      {
+        "team-name":"Steelers",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/steelers_150.png",
+        "rank": 8,
+        "white": 12,
+        "black": 38,
+        "hispanic": 1,
+        "asianpacificislander": 1,
+        "Other": 1
+      },
+      {
+        "team-name":"Bills",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/bills_150.png",
+        "rank":9,
+          "white": 12,
+          "black": 42,
+          "hispanic": 0,
+          "asianpacificislander": 0,
+          "other": 0
+      },
+      {
+        "team-name":"Redskins",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/redskins_150.png",
+        "rank":10,
+        "white": 15,
+        "black": 36,
+        "Hispanic": 0,
+        "asianpacificislander": 2,
+        "Other": 1
+      },
+      {
+        "team-name":"Chiefs",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/chiefs_150.png",
+        "rank":11,
+        "white": 15,
+        "black": 36,
+        "hispanic": 1,
+        "asianpacificislander": 1,
+        "other": 0
+      },
+      
+      {
+        "team-name":"Raiders",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/raiders_150.png",
+        "rank": 12,
+        "white": 9,
+        "black": 42,
+        "hispanic": 1,
+        "asianpacificislander": 1,
+        "other": 0
+      },
+      {
+        "team-name":"Lions",
+        "rank": 13,
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/lions_150.png",
+        "White": 11,
+        "Black": 40,
+        "Hispanic": 0,
+        "asianpacificislander": 1,
+        "Other": 1
+      },
+      {
+        "team-name":"Rams",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/rams_150.png",
+        "rank": 14,
+        "white": 15,
+        "black": 36,
+        "hispanic": 0,
+        "asianpacificislander": 0,
+        "other": 2
+      },
+      {
+        "team-name":"Cardinals",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/cardinals_150.png",
+        "rank":15,
+        "white": 14,
+        "black": 36,
+        "hispanic": 0,
+        "asianpacificislander": 1,
+        "other": 1
+      },
+      {
+        "team-name":"Texans",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/texans_150.png",
+        "rank": 16,
+        "white": 30,
+        "black": 20,
+        "hispanic": 1,
+        "asianpacificislander": 2,
+        "Other": 0
+      },
+      {
+        "team-name":"Giants",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/giants_150.png",
+        "rank": 17,
+        "white": 13,
+        "black": 38,
+        "hispanic": 0,
+        "asianpacificislander": 0,
+        "other": 1
+      },
+      {
+        "team-name":"Eagles",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/eagles_150.png",
+        "rank": 18,
+        "white": 27,
+        "black": 25,
+        "hispanic": 1,
+        "asian/Pacific Islander": 0,
+        "other": 0
+      },
+      {
+        "team-name":"Ravens",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/ravens_150.png",
+        "rank": 19,
+        "white": 12,
+        "black": 38,
+        "hispanic": 1,
+        "asianpacificislander": 1,
+        "Other": 1
+      },
+      
+      {
+        "team-name":"Titans",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/titans_150.png",
+        "rank": 20,
+        "white": 15,
+        "black": 37,
+        "hispanic": 0,
+        "asianpacificislander": 1,
+        "Other": 0
+      },
+
+      {
+        "team-name":"Saints",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/saints_150.png",
+        "rank": 21,
+        "white": 12,
+        "black": 38,
+        "hispanic": 0,
+        "asianpacificislander": 1,
+        "other": 2
+      },
+      {
+        "team-name":"Chargers",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/chargers_150.png",
+        "rank": 22,
+        "white": 16,
+        "black": 37,
+        "hispanic": 0,
+        "asianpacificislander": 2,
+        "other": 0
+      },
+      {
+        "team-name":"Jaguars",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/jaguars_150.png",
+        "rank": 23,
+        "white": 15,
+        "black": 35,
+        "hispanic": 0,
+        "asianpacificislander": 2,
+        "other": 1
+      },
+      {
+        "team-name":"Colts",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/colts_150.png",
+        "rank": 24,
+        "white": 13,
+        "black": 39,
+        "hispanic": 0,
+        "asianpacificislander": 0,
+        "other": 1
+      },
+      {
+        "team-name":"Bengals",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/bengals_150.png",
+        "rank": 25,
+          "white": 17,
+          "black": 34,
+          "hispanic": 0,
+          "asianpacificislander": 2,
+          "other": 0
+      },
+      {
+        "team-name":"Buccaneers",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/buccaneers_150.png",
+        "rank": 26,
+        "white": 12,
+        "black": 40,
+        "hispanic": 1,
+        "asianpacificislander": 0,
+        "other": 0
+      },
+      {
+        "team-name":"Panthers",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/panthers_150.png",
+        "rank":27,
+        "white": 13,
+        "black": 36,
+        "hispanic": 0,
+        "asianpacificislander": 2,
+        "other": 1
+      },
+      {
+        "team-name":"Dolphins",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/dolphins_150.png",
+        "rank": 28,
+        "white": 12,
+        "black": 37,
+        "hispanic": 0,
+        "asianpacificislander": 2,
+        "other": 2
+      },
+      {
+        "team-name":"Jets",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/jets_150.png",
+        "rank": 29,
+        "white": 16,
+        "black": 35,
+        "hispanic": 1,
+        "asianpacificislander": 0,
+        "other": 2
+      },
+      {
+        "team-name":"Bears",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/bears_150.png",
+        "rank": 30,
+          "white": 13,
+          "black": 35,
+          "hispanic": 3,
+          "asianpacificislander": 1,
+          "other": 1
+      },
+      {
+        "team-name":"49ers",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/49ers_150.png",
+        "rank": 31, 
+        "white": 14,
+        "black": 37,
+        "hispanic": 2,
+        "asianpacificislander": 1,
+        "other": 1
+      },
+      {
+        "team-name":"Browns",
+        "team-icon":"http://cdn-s3.si.com/s3fs-public/teams/football/nfl/logos/browns_150.png",
+        "rank": 32,
+        "white": 16,
+        "black": 34,
+        "hispanic": 0,
+        "asianpacificislander": 0,
+        "0ther": 3
+      }
+     
+    
+  ]

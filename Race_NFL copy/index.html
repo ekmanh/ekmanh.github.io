@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+
+	<title>Race + NFL</title>
+	<link href="assets/css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+	<div class="main-content">
+		<!-- 2. -->
+		<div class="enter page" style="margin-top: -50px;">
+			<p class="title">Racism & the <br>National Football <br>Leaugue <br>
+
+			<p id="titleinfo" >A data visualization about the rank of NFL teams and the ethnicity that comprises them. Created in response to recent allogations of racism against Chip Kelly and the Philadelphia Eagles.</p>
+
+			
+			<div>
+				<button class="enter-btn">Enter Site</button></a>
+			</div>
+
+
+
+				<footer>information sourced from: Sports Illustrated & the Best Tickets Blog</footer>		
+
+
+		</div>
+
+	<!-- 1. -->
+		<div class="all-teams page">
+			
+			<button class="back"">< back to the sidelines</a></button>
+
+			<p class="title">NFL<span style="font-size: 25px;">&nbsp; Race vs. Rank</span></p>
+			<p id="titleinfo" style="margin-bottom: 20px; font-size:20px;">
+			The filtering system is broken up by ethnicity and current number of players on the teams roster. </p>
+
+
+			<div class="btn-control">
+				<a href="#stat"><button name="white" value="Patriots" id="c1" class="button2">Caucasian > 15</button></a>
+				<a href="#stat"><button name="white" value="Broncos" id="c2" class="button2">Caucasian < 15</button></a>
+				<a href="#stat"><button name="black" value=">30" id="b1" class="button2">African American > 35</button></a>
+				<a href="#stat"><button name="black" value="<30" id="b2" class="button2">African American < 35</button></a>
+				
+			</div>
+			<div>
+				<a href="#stat"><button id="h1" class="button2">Hispanic > 1</button></a>
+				<a href="#stat"><button id="h2" class="button2">Hispanic < 1</button></a>
+				<a href="#stat"><button id="a1" class="button2">Asian/Pacific > 1</button></a>
+				<a href="#stat"><button id="a2" class="button2">Asian/Pacific < 1</button></a>
+			</div>
+
+			<ul class="teams-list">
+			<a name="stat">
+
+
+
+				<script id="teams-template" type="x-handlebars-template">​
+
+					{{#each this}}
+					<li data-index="{{rank}}">
+						<h3>#{{rank}}</h3>
+						<h2 style="font-family: 'Dosis', sans-serif; margin-top:-4px;";>{{team-name}} </a></h2>
+						<a class="team-photo" style="margin-top:-5px; margin-bottom:-2px;"><img src="{{team-icon}}" height="80" alt="{{team-name}}"/></a>
+						
+						</ul>
+
+					</li>
+					{{/each}}
+				</script> 
+				</a>
+			</ul>
+		
+			<footer>information sourced from: Sports Illustrated & the Best Tickets Blog
+			</footer>		
+		</div>
+		
+		
+
+
+
+	</div>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.min.js"></script>
+	<script src="assets/js/script.js"></script>
+
+</body>
+</html>
